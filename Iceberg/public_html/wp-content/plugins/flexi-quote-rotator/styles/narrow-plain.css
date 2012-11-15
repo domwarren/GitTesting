@@ -1,0 +1,15 @@
+#quotearea {
+   background: #cccccc;
+   width: 240px;
+   padding: 20px 30px 20px 30px;
+   margin: 15px auto;
+}
+#quoterotator {
+   line-height: 135%;
+}
+#quoteauthor {
+   display: block;
+   text-align: right;
+   font-weight: bold;
+   font-style: italic;
+}

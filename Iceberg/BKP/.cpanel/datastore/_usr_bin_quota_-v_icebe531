@@ -1,0 +1,10 @@
+Disk quotas for user icebe531 (uid 1025): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+/dev/mapper/VolGroup00-root
+                      4       0       0               3       0       0        
+/dev/mapper/VolGroup00-usr
+                      0       0       0               0       0       0        
+/dev/mapper/VolGroup00-home
+                    324       0       0              69       0       0        
+/dev/mapper/VolGroup00-var
+                      0       0       0               1       0       0        
